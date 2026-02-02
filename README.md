@@ -24,7 +24,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://potfolio-dusky-two.vercel.app/)
+[**Live Demo**](https://paarthdutta.vercel.app/)
 ---
 ### 🎯 Project Structure
 ```bash
