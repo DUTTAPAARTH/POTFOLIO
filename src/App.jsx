@@ -8,6 +8,8 @@ import Hero from "./pages/Hero/Hero";
 import Skills from "./pages/Skills/Skills";
 import Education from "./pages/Education/Education";
 
+import Certificates from "./pages/Certificates/Certificates";
+
 import { Route, Routes } from "react-router-dom";
 
 export default function App() {
@@ -33,6 +35,7 @@ export default function App() {
           <Route path="/skills" element={<Skills />} />
           <Route path="/experience" element={<Experience />} />
           <Route path="/education" element={<Education />} />
+          <Route path="/certificates" element={<Certificates />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/projects" element={<Projects />} />
         </Routes>

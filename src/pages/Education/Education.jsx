@@ -15,24 +15,34 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
-      mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      degree: "B.Tech Computer Science and Engineering",
+      school: "SRM Institute of Science and Technology, Kattankulathur",
+      mascot: "🎓",
+      year: "2023-2027",
+      achievements: ["CGPA: 9.85", "Top Performer in Academics"],
+      skills: ["Data Structures", "Algorithms", "Java", "Web Development"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Pursuing professional engineering degree with a focus on core computer science principles and advanced software engineering methodologies.",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
-      mascot: "📗",
+      degree: "Higher Secondary Certificate (Class 12)",
+      school: "City Vocational Public School, Meerut",
+      mascot: "🏫",
       year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      achievements: ["Percentage: 80%", "Science Stream"],
+      skills: ["Physics", "Chemistry", "Mathematics", "Computer Science"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Completed senior secondary education with a focus on STEM subjects, laying the foundation for engineering studies.",
+    },
+    {
+      degree: "Secondary School Certificate (Class 10)",
+      school: "City Vocational Public School, Meerut",
+      mascot: "📝",
+      year: "2019-2021",
+      achievements: ["Percentage: 96%", "Distinction in all subjects"],
+      skills: ["Mathematics", "Science", "English", "IT"],
+      description:
+        "High school education with strong academic performance across all major disciplines.",
     },
   ];
 

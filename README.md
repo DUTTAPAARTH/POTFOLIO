@@ -69,6 +69,8 @@ portfolio/
 │   ├── pages/
 │   │   ├── About/
 │   │   │   └── About.jsx
+│   │   ├── Certificates/
+│   │   │   └── Certificates.jsx
 │   │   ├── Contact/
 │   │   │   └── Contact.jsx
 │   │   ├── Experience/
@@ -108,8 +110,9 @@ The portfolio website consists of the following sections:
 - **Home**: Introduction and a brief overview.
 - **Skills**: A detailed list of my technical skills.
 - **Experience**: My professional journey and work experience.
-- **Education**: Academic background and certifications.
-- **Projects**: A showcase of the projects I've worked on.
+- **Education**: Academic background.
+- **Certificates**: Professional certifications and achievements (IBM, Deloitte, J.P. Morgan, SIH, etc.).
+- **Projects**: A showcase of the projects I've worked on (Suraksha One, Rentamoto, etc.).
 - **Contact**: Information on how to reach out to me.
 
 ---
@@ -189,5 +192,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<div align="center"> Made with ❤️ by Nazmul Hossain </div>
+<div align="center"> Made with ❤️ by Paarth Dutta </div>
 

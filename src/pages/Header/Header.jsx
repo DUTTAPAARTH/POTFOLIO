@@ -8,6 +8,7 @@ import {
   FaCode,
   FaEnvelope,
   FaBars,
+  FaCertificate,
 } from "react-icons/fa";
 import { Link, useLocation } from "react-router-dom";
 
@@ -41,6 +42,7 @@ export default function Header() {
       text: "Education",
       path: "/education",
     },
+    { id: "certificates", icon: FaCertificate, text: "Certificates", path: "/certificates" },
     { id: "projects", icon: FaLaptopCode, text: "Projects", path: "/projects" },
     { id: "contact", icon: FaEnvelope, text: "Contact", path: "/contact" },
   ];
@@ -52,7 +54,7 @@ export default function Header() {
           <nav className="bg-gray-900/90 backdrop-blur-md md:rounded-full px-4 md:px-6 py-2.5">
             {/* Mobile Menu Button */}
             <div className="flex justify-between items-center md:hidden px-2">
-              <Link to="/" className="text-white font-bold">Portfolio</Link>
+              <Link to="/" className="text-white font-bold">Paarth Dutta</Link>
               <button 
                 onClick={() => setIsMenuOpen(!isMenuOpen)}
                 className="text-white p-2"
