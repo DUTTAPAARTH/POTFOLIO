@@ -26,7 +26,7 @@ const EducationSection = () => {
     },
     {
       degree: "Higher Secondary Certificate (Class 12)",
-      school: "City Vocational Public School, Meerut",
+      school: "Spring Dale Senior School, Amritsar",
       mascot: "🏫",
       year: "2021-2023",
       achievements: ["Percentage: 80%", "Science Stream"],
@@ -36,7 +36,7 @@ const EducationSection = () => {
     },
     {
       degree: "Secondary School Certificate (Class 10)",
-      school: "City Vocational Public School, Meerut",
+      school: "Spring Dale Senior School, Amritsar",
       mascot: "📝",
       year: "2019-2021",
       achievements: ["Percentage: 96%", "Distinction in all subjects"],
